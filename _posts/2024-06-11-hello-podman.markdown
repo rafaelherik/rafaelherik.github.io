@@ -7,7 +7,7 @@ categories: containers
 
 # Podman
 
-![Alt text](../assets/podman-logo.png){width=300;}
+![Alt text](/assets/podman-logo.png){width=300;}
 
 
 I've been working with containerized applications for a while, mostly docker based, but for a long time **podman** is capturing my attention for a long time. **Podman** stands out from other container engines for one main reason, it's demonless. To give some context, ***WHAT IS DAEMON?*** Daemons are processes that run in background to do the heavy lifting of running containers without any UI, it's a king of intermediary between the user and the container itself. 
